@@ -78,13 +78,16 @@ button {
 }
 
 .Shirt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Shirtcontent {
     background-color: pink;
     width: 200px;
     height: 300px;
     padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 button:hover {
