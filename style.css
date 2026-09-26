@@ -20,6 +20,11 @@ nav {
     border-bottom: 1px solid #222;
 }
 
+.logopic {
+    height: 60px;
+    width: 60px;
+}
+
 .logo {
     font-size: 24px;
     font-weight: bold;
