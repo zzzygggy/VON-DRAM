@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #3E7FB2;
+    background: #0C0C0C;
     color: white;
 }
 
@@ -20,8 +20,6 @@ nav {
     border-bottom: 1px solid #222;
 }
 
-.logopic {
-    size: 20%;
 }
 
 .logo {
