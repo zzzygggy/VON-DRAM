@@ -118,6 +118,11 @@ button {
     padding: 20px;
 }
 
+.ProductLink:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
 button:hover {
     background: #ccc;
 }
