@@ -94,6 +94,15 @@ button {
     justify-content: center;
 }
 
+.Pants {
+    background-color: pink;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 button:hover {
     background: #ccc;
 }
