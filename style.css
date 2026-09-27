@@ -79,18 +79,19 @@ button {
 
 .Products {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 100%;
-    margin-top: -50px;
-    flex-direction: collumn;
-    gap: 10px;
+    margin-top: 20px;
+    gap: 20px;
     padding: 20px;
 }
 
 .Shirt {
     background-color: pink;
-    width: 1000px;
+    width: 100%;
+    max-width: 1000px;
     height: 500px;
     display: flex;
     align-items: center;
@@ -100,7 +101,8 @@ button {
 
 .Pants {
     background-color: pink;
-    width: 1000px;
+    width: 100%;
+    max-width: 1000px;
     height: 500px;
     display: flex;
     align-items: center;
