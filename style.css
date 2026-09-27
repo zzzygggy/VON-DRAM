@@ -85,24 +85,27 @@ button {
     margin-top: -50px;
     flex-direction: collumn;
     gap: 10px;
+    padding: 20px;
 }
 
 .Shirt {
     background-color: pink;
-    width: 200px;
-    height: 300px;
+    width: 1000px;
+    height: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px;
 }
 
 .Pants {
     background-color: pink;
-    width: 200px;
-    height: 300px;
+    width: 1000px;
+    height: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px;
 }
 
 button:hover {
