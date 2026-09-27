@@ -88,6 +88,14 @@ button {
     padding: 20px;
 }
 
+.ProductLink {
+    display: block;
+    width: 100%;
+    max-width: 1000px;
+    text-decoration: none;
+    color: black;
+}
+
 .Shirt {
     background-color: pink;
     width: 100%;
