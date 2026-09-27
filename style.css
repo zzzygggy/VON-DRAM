@@ -91,15 +91,21 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+
     width: 100%;
     max-width: 1000px;
     height: 500px;
+
     background-color: pink;
+
+    color: white;
     text-decoration: none;
-    color: black;
+
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 3px;
 }
 
-.ProductLink,
 .ProductLink:visited,
 .ProductLink:hover,
 .ProductLink:active {
@@ -107,18 +113,8 @@ button {
     text-decoration: none;
 }
 
-.ProductLink {
-    font-size: 28px;
-    font-weight: bold;
-    letter-spacing: 3px;
-}
-
 .ProductLink:hover {
     opacity: 0.8;
-}
-
-.Shirt, .Pants {
-    font-size: 24px;
 }
 
 button:hover {
