@@ -136,6 +136,21 @@ button {
     margin: 20px auto 0;
 }
 
+.Pantstext {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    color: white;
+
+    font-size: 23px;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+    padding: 20px;
+    margin: 20px auto 0;
+}
+
 .ProductLink:hover {
     opacity: 0.8;
 }
