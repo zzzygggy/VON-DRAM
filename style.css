@@ -189,6 +189,25 @@ button {
     margin: 20px auto 0;
 }
 
+.Buybutton {
+    display: block;
+    width: 150px;
+    padding: 15px;
+
+    margin: 20px auto;
+
+    background-color: white;
+    color: black;
+
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+    border-radius: 12px;
+}
+
 .ProductLink:hover {
     opacity: 0.8;
 }
