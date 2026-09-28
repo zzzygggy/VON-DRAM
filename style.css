@@ -151,6 +151,44 @@ button {
     margin: 20px auto 0;
 }
 
+.Shirtpic {
+    box-sizing: border-box;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    max-width: 1000px;
+    height: 500px;
+
+    background-color: pink;
+    color: white;
+
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+    padding: 20px;
+    margin-top: 20px;
+    margin: 20px auto 0;
+}
+
+.Shirttext {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    color: white;
+
+    font-size: 23px;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+    padding: 20px;
+    margin: 20px auto 0;
+}
+
 .ProductLink:hover {
     opacity: 0.8;
 }
